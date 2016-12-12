@@ -1,0 +1,17 @@
+MIDI output devices:
+0: MMSystem, Microsoft MIDI Mapper
+12: MMSystem, Microsoft GS Wavetable Synth
+13: MMSystem, Out To MIDI Yoke:  1
+14: MMSystem, Out To MIDI Yoke:  2
+15: MMSystem, Out To MIDI Yoke:  3
+16: MMSystem, Out To MIDI Yoke:  4
+17: MMSystem, Out To MIDI Yoke:  5
+18: MMSystem, Out To MIDI Yoke:  6
+19: MMSystem, Out To MIDI Yoke:  7
+20: MMSystem, Out To MIDI Yoke:  8
+21: MMSystem, MT-32 Synth Emulator
+22: MMSystem, E-DSP MIDI Port [FFC0]
+23: MMSystem, E-DSP MIDI Port 2 [FFC0]
+24: MMSystem, Q49
+Out To MIDI Yoke:  1 maps to 13
+device 13 selected
